@@ -5,6 +5,5 @@
 ### Pattern Matching
 ### Immutability
 ### Basic tools (mix)
-### Phoenix the killer app
-### Phoenix is not your application
-### Difference between Phoenix and ActionCable channels
+### Massively Concurrent
+### Where's the State?

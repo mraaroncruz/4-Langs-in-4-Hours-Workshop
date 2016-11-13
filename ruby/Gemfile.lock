@@ -1,0 +1,25 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    coderay (1.1.1)
+    feed-normalizer (1.5.2)
+      hpricot (>= 0.6)
+      simple-rss (>= 1.1)
+    hpricot (0.8.6)
+    method_source (0.8.2)
+    pry (0.10.4)
+      coderay (~> 1.1.0)
+      method_source (~> 0.8.1)
+      slop (~> 3.4)
+    simple-rss (1.3.1)
+    slop (3.6.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  feed-normalizer
+  pry
+
+BUNDLED WITH
+   1.13.3

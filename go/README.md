@@ -5,7 +5,5 @@
 ### Concurrency Model
 ### Static Typing
 ### Basic tools (go)
-### Gorilla
-### Gorilla is not your application
 ### Let's get started!
 
