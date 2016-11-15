@@ -33,8 +33,10 @@ module Concurrent
       # Start worker in the background and process jobs
       spawn do
         while true
+          # Simulate work
           sleep(rand * 4)
           res = pull_chan.receive
+          # Send result and identify yourself
           push_chan.send([n, res * res])
         end
       end
